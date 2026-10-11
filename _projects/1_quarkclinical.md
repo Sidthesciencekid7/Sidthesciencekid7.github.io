@@ -18,4 +18,4 @@ QuarkClinical generates clinical-trial protocols for bioequivalence and biosimil
 
 **Stack:** FastAPI, PostgreSQL, React, Clerk, Railway, Vercel, Claude API, R.
 
-[Live app](https://frontend-pearl-eight-95.vercel.app)
+[Live app](https://frontend-pearl-eight-95.vercel.app) · [Source code on GitHub](https://github.com/Sidthesciencekid7/quarkclinical)
