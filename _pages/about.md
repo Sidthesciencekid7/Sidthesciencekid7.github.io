@@ -7,9 +7,6 @@ subtitle: Chemical Engineering at the <a href='https://www.udel.edu/'>University
 profile:
   align: right
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>University of Delaware</p>
-    <p>Newark, DE</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
