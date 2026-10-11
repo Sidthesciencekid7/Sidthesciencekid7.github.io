@@ -23,6 +23,6 @@ latest_posts:
 
 Hi, I'm Siddharth (Sid) Athalye, a chemical engineering student at the University of Delaware.
 
-I like building software for hard, regulated problems. My main project is [QuarkClinical](/projects/quarkclinical/), an AI platform that drafts and reviews clinical-trial protocols against FDA, EMA and ICH guidance. I'm also working on a gamified nutrition tracker.
+I like building software for hard, regulated problems. My main project is [QuarkClinical](/projects/1_quarkclinical/), an AI platform that drafts and reviews clinical-trial protocols against FDA, EMA and ICH guidance. I'm also working on a gamified nutrition tracker.
 
 You can see what I've built on the [projects](/projects/) page and my background on the [CV](/cv/) page. Email is the best way to reach me.
