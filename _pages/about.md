@@ -22,4 +22,4 @@ Hi, I'm Siddharth (Sid) Athalye, a chemical engineering student at the Universit
 
 I like building things, and my main interest lies in the intersection of healthcare and technology My main project is [QuarkClinical](/projects/1_quarkclinical/), an AI platform that drafts and reviews clinical-trial protocols against FDA, EMA and ICH guidance. I've also built machine learning tools for [bioprocess analysis](/projects/2_bioprocess_ml_tool/) and [blood-brain barrier prediction](/projects/3_neuro_therapeutic_designer/).
 
-You can see everything I've built on the [projects](/projects/) page. Email is the best way to reach me.
+You can see everything I've built on the [projects](/projects/) page.
